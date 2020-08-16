@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<litepal>
-    <dbname value="DataLibrary" />
-    <version value="2" />
-
-    <list>
-        <mapping class="com.example.chatroom.Data" />
-    </list>
-</litepal>
